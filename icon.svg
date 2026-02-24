@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0a0e14"/>
+  <rect x="40" y="40" width="432" height="432" rx="64" fill="#0f1520" stroke="#1e2d3d" stroke-width="4"/>
+  <!-- Chart bars -->
+  <rect x="100" y="300" width="48" height="120" rx="6" fill="#22d3ee" opacity="0.7"/>
+  <rect x="172" y="240" width="48" height="180" rx="6" fill="#22d3ee" opacity="0.8"/>
+  <rect x="244" y="180" width="48" height="240" rx="6" fill="#22d3ee" opacity="0.9"/>
+  <rect x="316" y="140" width="48" height="280" rx="6" fill="#22d3ee"/>
+  <!-- Trend line -->
+  <polyline points="124,280 196,220 268,160 340,120" fill="none" stroke="#10b981" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Energy bolt -->
+  <polygon points="280,80 240,200 290,200 230,340 330,170 270,170 310,80" fill="#f59e0b" opacity="0.9"/>
+</svg>

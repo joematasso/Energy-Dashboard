@@ -1,0 +1,16 @@
+{
+  "name": "ARM Energy — Energy Trading Terminal",
+  "short_name": "ARM Energy",
+  "description": "Simulated energy trading terminal for natural gas, crude oil, and power markets.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e14",
+  "theme_color": "#22d3ee",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
